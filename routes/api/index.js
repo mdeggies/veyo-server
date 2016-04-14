@@ -7,7 +7,7 @@ router.get('/', function(req, res, next) {
 	res.send('in router.get /');
 });
 
-router.post('/wishlist', function(req, res, next) {
+router.post('/', function(req, res, next) {
 	res.send('in router.post /');
 });
 
