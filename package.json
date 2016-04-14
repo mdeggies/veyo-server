@@ -6,11 +6,15 @@
   "scripts": {
     "start": "node server.js"
   },
+  "engines": {
+    "node": "4.2.6"
+  },
   "author": "Michele Degges",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.15.0",
     "cors": "^2.7.1",
+    "ejs": "^2.4.1",
     "express": "^4.13.4",
     "http": "0.0.0",
     "morgan": "^1.7.0",
