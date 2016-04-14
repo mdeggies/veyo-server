@@ -29,5 +29,3 @@ app.use(function(req, res, next) {
   res.status(err.status || 500);
   console.log('Error:', err);
 });
-
-//module.exports = app;
