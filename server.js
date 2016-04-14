@@ -19,8 +19,8 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/api', require('./routes/api'));
 
-http.createServer(app).listen(app.get('port'), function(){
-  console.log('Express server listening on port ', app.get('port'));
+app.listen(app.get('port'), function(){
+  console.log('Express server listening on port ' + app.get('port'));
 });
 
 app.use(function(req, res, next) {
