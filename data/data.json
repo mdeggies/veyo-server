@@ -1,0 +1,21 @@
+[
+  {"id": 1, "name": "Delia", "device": "Driver Device", "status": "Active", "lat": 32.717653, "long": -117.171629},
+  {"id": 2, "name": "Patsy", "device": "Driver Device","status": "Inactive", "lat": 32.723456, "long": -117.171736},
+  {"id": 3, "name": "Daniel", "device": "Driver Device", "status": "Active", "lat": 32.726542, "long": -117.163229},
+  {"id": 4, "name": "Randall", "device": "Company Issued Device","status": "Inactive", "lat": 32.726542, "long": -117.155977},
+  {"id": 5, "name": "Floyd", "device": "Company Issued Device","status": "Active", "lat": 32.715782, "long": -117.170775},
+  {"id": 6, "name": "Gladys", "device": "Driver Device", "status": "Suspended", "lat": 32.724567, "long": -117.163452},
+  {"id": 7, "name": "Holt", "device": "Company Issued Device","status": "Active", "lat": 32.715542, "long": -117.163865},
+  {"id": 8, "name": "Charlotte", "device": "Driver Device", "status": "Suspended", "lat": 32.713452, "long": -117.170765},
+  {"id": 9, "name": "Howard", "device": "Company Issued Device", "status": "Suspended", "lat": 32.715876, "long": -117.163476},
+  {"id": 10, "name": "Rex", "device": "Driver Device", "status": "Inactive", "lat": 32.725242, "long": -117.160492},
+  {"id": 11, "name": "Richard", "device": "Driver Device", "status": "Suspended", "lat": 32.715562, "long": -117.166448},
+  {"id": 12, "name": "Irma", "device": "Company Issued Device", "status": "Suspended", "lat": 32.725788, "long": -117.163876},
+  {"id": 13, "name": "Phillips", "device": "Driver Device", "status": "Active", "lat": 32.715722, "long": -117.161658},
+  {"id": 14, "name": "Maryann", "device": "Driver Device", "status": "Active", "lat": 32.717653, "long": -117.162438},
+  {"id": 15, "name": "Goodwin", "device": "Company Issued Device", "status": "Suspended", "lat": 32.71565, "long": -117.165448},
+  {"id": 16, "name": "Marjorie", "device": "Driver Device", "status": "Inactive", "lat": 32.719832, "long": -117.169444},
+  {"id": 17, "name": "Lamb", "device": "Driver Device", "status": "Inactive", "lat": 32.721164, "long": -117.157485},
+  {"id": 18, "name": "Eric", "device": "Driver Device", "status": "Inactive", "lat": 32.719734, "long": -117.153448},
+  {"id": 19, "name": "Erickson", "device": "Driver Device", "status": "Active", "lat": 32.720270, "long": -117.155257}
+]
