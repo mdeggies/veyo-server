@@ -1,6 +1,6 @@
 ## Veyo server
 
-This is a simple server that handles all of the JSON file manipulation for the Veyo Frontend Project. It was written in NodeJS. :)
+This is a simple server that handles all of the JSON file manipulation for the Veyo Frontend Project. It was written in NodeJS.
 
 ## Instructions
 
